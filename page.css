@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(60, 59, 75);
+}
+
+.row {
+    padding-bottom: 13px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 3px;
+  }
+
+  .table_text {
+    color: black;
+    font-size: 22px;
+}
